@@ -9,7 +9,7 @@ void burbuja(int a[],int n);
 int main()
 {
 
-int m[5],jk[10],i,k=0,d;
+int m[10],jk[10],i,k=0,d;
 
   ingresarpares(m,i);
   imprimir_pares (m,i);
