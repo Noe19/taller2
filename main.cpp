@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//ingrese valores pares 
 void ingresarpares(int a[],int n);
 void imprimir_pares(int a[],int n);
 void burbuja(int a[],int n);
@@ -52,6 +52,7 @@ int i,d,k=0;
 
 }
 // no le pude borrar los ceros que me sale 
+// buenas tardes
 
 
 
